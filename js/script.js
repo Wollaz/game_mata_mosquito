@@ -20,8 +20,6 @@ if(nivel === 'normal') {
 function ajustaCenario() {    
     altura = window.innerHeight
     largura = window.innerWidth
-
-    console.log(largura, altura)
 }
 
 ajustaCenario()
